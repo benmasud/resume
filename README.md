@@ -1,9 +1,9 @@
 # Machine Learning Engineer
 
 ## Contact Information
-- **EMail**: [Send me an email](mailto:r.ben.masud@gmail.com)
-- **Phone**: [+7(995)2729571](tel:+79952729571)
-- **Telegram**: [Write me on Telegram](https://t.me/ovid_d)
+- **Mail Me**: [Send me an email](mailto:r.ben.masud@gmail.com)
+- **Call Me**: [+7(995)2729571](tel:+79952729571)
+- **Write me**: [Write me on Telegram](https://t.me/ovid_d)
 - **Address**: Ulitsa Lyapunova, 4, Novosibirsk, Novosibirskaya oblast', 630090, Russian Federation
   [linkedin](https://www.linkedin.com/in/rofikul-masud-a984a3267/)
 
