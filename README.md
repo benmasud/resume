@@ -2,7 +2,6 @@
 
 ## Contact Information
 - **Mail me**: [Send me an email](mailto:r.ben.masud@gmail.com)
-- **Phone**: +7(995)2729571
 - [Write me on Telegram](https://t.me/ovid_d)
 - **Address**: Ulitsa Lyapunova, 4, Novosibirsk, Novosibirskaya oblast', 630090, Russian Federation
   [linkedin](https://www.linkedin.com/in/rofikul-masud-a984a3267/)
