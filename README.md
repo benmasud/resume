@@ -75,13 +75,17 @@
 - Developed a Django and JavaScript-based open-source digital library for sharing and downloading books.  
 - Implemented access restrictions, request-based book access, and automated format conversion (TXT, EPUB, PDF, DOC).  
 - Integrated user recommendations and book rating systems.
+**Project link:** [https://github.com/Bibliophilia/bibliophilia.git](https://github.com/Bibliophilia/bibliophilia.git)
 
 **Lisp-Machine (Java Framework, 2024)**  
 *Team of 2*  
 - Developed a Java-based framework for parsing Lisp code and translating it into runnable Java classes.  
 - Demonstrated compiler design concepts, abstract syntax trees, and language interoperability.
+**Project link:** [https://github.com/benmasud/Lisp-Machine.git](https://github.com/benmasud/Lisp-Machine.git)
+
 
 **MADR (Language Learning Application, 2023-2024)**  
 *Team of 4*  
 - Designed a gamified language learning app in Go and JavaScript, inspired by Duolingo.  
 - Enabled customizable language learning processes and engaging user experiences through gamification.
+**Project review:** [https://github.com/ogniloud](https://github.com/ogniloud)
