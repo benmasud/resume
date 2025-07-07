@@ -88,4 +88,4 @@
 *Team of 4*  
 - Designed a gamified language learning app in Go and JavaScript, inspired by Duolingo.  
 - Enabled customizable language learning processes and engaging user experiences through gamification.<br>
-**GitHub:** [ogniloud](https://github.com/ogniloud)
+**Project link:** [ogniloud](https://github.com/ogniloud)
