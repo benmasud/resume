@@ -1,6 +1,7 @@
 
 title: Rofikul Masud
-logo: resume\images\IMG_20230711_141748.jpg
+logo: images/IMG_20230711_141748.jpg
+#resume\images\IMG_20230711_141748.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
