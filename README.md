@@ -7,7 +7,6 @@
 - **Address**: Ulitsa Lyapunova, 4, Novosibirsk, Novosibirskaya oblast', 630090, Russian Federation <br>
 [Me on Linkedin](https://www.linkedin.com/in/rofikul-masud-a984a3267/)
 
-![image](https://github.com/user-attachments/assets/31b10efc-c280-48dd-ac04-ea9a7df1de7f)
 
 ## Education
 **Novosibirsk National Research State University, Faculty of Information Technologies**  
@@ -18,7 +17,6 @@
 - **Thesis**: Using Machine Learning Tools to Solve Direct and Inverse Problems in Determining the Parameters of the Environment Near the Wellbore Using the Signals of the High Frequency Induction Logging While Drilling Device.  
   *Expected to be presented and published at the 2025 IEEE XVII APEIE Conference in November 2025*
 
-![image](https://github.com/user-attachments/assets/9209568c-8888-4005-a4d0-948dc875d975)
 
 ## Research Experience
 **Artificial Intelligence Laboratory, A.P. Ershov Institute of Informatics Systems, Russian Academy of Sciences (Siberian Branch)**  
@@ -34,7 +32,6 @@
 - Experimented with neural networks and classical ML methods to enhance accuracy.  
 - Developed computational modeling software for data interpretation.
 
-![image](https://github.com/user-attachments/assets/e33af3e5-3fac-4646-8426-dcc02af57285)
 
 ## Professional Experience
 **OOO AITISIB**  
@@ -51,7 +48,6 @@
 - Researched and validated ML models for risk prediction and management.  
 - Streamlined processes through Python automation and ensured data quality to improve model performance.
   
-![image](https://github.com/user-attachments/assets/f9566f55-2e42-470e-8707-bfc96fd255b7)
 
 ## Skills
 - **Programming Languages**: Python, Java, C/C++, SQL, Go, JavaScript, Haskell  
@@ -71,7 +67,6 @@
 - Skilled in data preprocessing, experiment design, result visualization, and collaborative research workflows.  
 - Familiar with reproducible research practices and comprehensive literature reviews.
 
-![image](https://github.com/user-attachments/assets/747720c3-3fe9-4146-ad9f-7738d1a2e2df)
 
 
 ## Projects
